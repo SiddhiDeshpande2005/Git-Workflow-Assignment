@@ -9,3 +9,4 @@ This project demonstrates basic Git and GitHub workflow.
 
 ## Author
 Siddhi Deshpande
+Updated README for GitHub Features assignment.
